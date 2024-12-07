@@ -1,4 +1,5 @@
 ## Mission and Goals
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)\
 Developing OS games and tools for everybody to **enjoy, share, learn from and modify**.\
 I use MPL2.0, so the public property can be **protected** and you're **free** to use whatever you learn or inspires you.
 
@@ -16,9 +17,14 @@ All my games have **Excellence and Ethics** as intrinsic commitment.
 ![Krita](https://img.shields.io/badge/Krita-203759?style=for-the-badge&logo=krita&logoColor=EEF37B)
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
+[![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#)
+[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
+[![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
+
 ## Education
 ![edX](https://img.shields.io/badge/edX-%2302262B.svg?style=for-the-badge&logo=edX&logoColor=white)
 ![Khan Academy](https://img.shields.io/badge/KhanAcademy-%2314BF96.svg?style=for-the-badge&logo=KhanAcademy&logoColor=white)
+[![Books](https://img.shields.io/badge/A%20rich-LIBRARY-b8c2b9?style=for-the-badge)](https://imgix.bustle.com/rehost/2016/9/13/9b64218a-939c-485d-89c6-ae247784ddc3.jpg?w=800&fit=crop&crop=faces&auto=format%2Ccompress&q=50&dpr=2)
 
 ### :bear: Your Donation really helps:
 [![App Platorm](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/grislic)

@@ -1,11 +1,20 @@
-## Mission and Goals
-[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)\
-Developing OS games and tools for everybody to **enjoy, share, learn from and modify**.\
-I prefer MPL2.0 for gaming, so the public property can be **protected** and you're **free** to use whatever you learn or inspires you.
+## Purpose and Key Principles
 
-All my games are created with **no end purpose of selling or making a profit**.\
-All my games are designed and developed with **Open Source and modding in mind**.\
-All my games have **Excellence and Ethics** as intrinsic commitment.
+[![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
+
+My purpose is to **Research, Design, and Develop Open Source Software (OSS)**, with a particular focus on creating accessible games and tools. My Key Principles are rooted in the propositions of _enjoyment, sharing, and hands-on learning_. 
+
+### Key Principles
+
+- **Open Source Philosophy**: I create software that is meant to be shared and improved upon, allowing others to benefit from the work and creativity that goes into each project.
+
+- **Non-Profit Motive**: I develop software without the intention of selling or making a profit. My focus is solely on process, quality and the value it brings to the community.
+
+- **Modding-Friendly**: All my software is designed with modding (or customization) in mind. I believe that the contributions of the community and the personalization of the experience not only allow a deeper involvement with the projects, but that they represent the best for the growth and improvement of the latter.
+
+- **Commitment to Excellence and Ethics**: I hold myself to high standards in both the quality of my software and the ethical implications of my designs. My work reflects a sincere dedication to making positive contributions to the community.
+
+- **Licensing**: As far as the world of gaming is concerned, I favor weak copyleft licenses, which allows those who learn something from the project or decide to use it as the basis for something completely new to do so with freedom and tranquility; without however ceasing to protect public property and contributors. Instead, I choose to adopt the harshest hard copyleft licenses for any technical software with any industrial and commercial applications, as experience has amply demonstrated the incorrectness and lack of scruples of those who pursue exclusively a profit motive.
 
 ## Tools
 [![App Platorm](https://raw.githubusercontent.com/love2d/love/60278b0532036d404c0b7b011c7b63ab58a5ddaf/platform/unix/love.svg)](https://www.love2d.org/)

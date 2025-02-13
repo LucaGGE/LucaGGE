@@ -2,17 +2,17 @@
 
 [![Open Source Love svg2](https://badges.frapsoft.com/os/v2/open-source.svg?v=103)](https://github.com/ellerbrock/open-source-badges/)
 
-My purpose is to **Research, Design, and Develop Open Source Software (OSS)**, with a particular focus on creating accessible games and tools. My Key Principles are rooted in the propositions of _enjoyment, sharing, and hands-on learning_. 
+My purpose is to **Research, Design, and Develop Open Source Software (OSS)**, with a particular focus on creating accessible games and tools. My Key Principles are rooted in the propositions of _enjoyment, sharing,_ and _hands-on learning_. 
 
 ### Key Principles
 
 - **Open Source Philosophy**: I create software that is meant to be shared and improved upon, allowing others to benefit from the work and creativity that goes into each project.
 
-- **Non-Profit Motive**: I develop software without the intention of selling or making a profit. My focus is solely on process, quality and the value it brings to the community.
-
 - **Modding-Friendly**: All my software is designed with modding (or customization) in mind. I believe that the contributions of the community and the personalization of the experience not only allow a deeper involvement with the projects, but that they represent the best for the growth and improvement of the latter.
 
 - **Commitment to Excellence and Ethics**: I hold myself to high standards in both the quality of my software and the ethical implications of my designs. My work reflects a sincere dedication to making positive contributions to the community.
+
+- **Non-Profit Motive**: I develop software without the intention of selling or making a profit. My focus is solely on process, quality and the value it brings to the community.
 
 - **Licensing**: As far as the world of gaming is concerned, I favor weak copyleft licenses, which allows those who learn something from the project or decide to use it as the basis for something completely new to do so with freedom and tranquility; without however ceasing to protect public property and contributors. Instead, I choose to adopt the harshest hard copyleft licenses for any technical software with any industrial and commercial applications, as experience has amply demonstrated the incorrectness and lack of scruples of those who pursue exclusively a profit motive.
 
@@ -27,7 +27,6 @@ My purpose is to **Research, Design, and Develop Open Source Software (OSS)**, w
 ![Gimp Gnu Image Manipulation Program](https://img.shields.io/badge/Gimp-657D8B?style=for-the-badge&logo=gimp&logoColor=FFFFFF)
 
 [![Notepad++](https://img.shields.io/badge/Notepad++-90E59A.svg?&logo=notepad%2b%2b&logoColor=black)](#)
-[![Neovim](https://img.shields.io/badge/Neovim-57A143?logo=neovim&logoColor=fff)](#)
 [![Linux](https://img.shields.io/badge/Linux-FCC624?logo=linux&logoColor=black)](#)
 
 ## Education
@@ -37,3 +36,20 @@ My purpose is to **Research, Design, and Develop Open Source Software (OSS)**, w
 
 ### :bear: Your Donation really helps:
 [![App Platorm](https://img.shields.io/badge/Ko--fi-F16061?style=for-the-badge&logo=ko-fi&logoColor=white)](https://ko-fi.com/grislic)
+
+**Why should I ever donate money to OSS? It's free!**\
+_My argument on why we should donate_
+
+Imagine a world where the tools we use every day are built not by ruthless giant corporations solely focused on squeezing profit out of us, but by passionate people actually driven by love for what they do and a desire to share and collaborate with others.\
+That's the power of open-source software.\
+When we donate to projects we care about, we're not simply showing appreciation; we're giving someone (sometimes several people) the freedom to spend more time making something better, for everyone. And when a lot of people decide to donate, it comes to a point when we can have _full time_ teams working on impressive projects, making them more and more amazing! I think we can take _Blender_ as a prime example of that.
+
+Open-source creators listen to their users, fix problems quickly, and build features that people actually want. They're not trying to trap you into an ecosystem of their convenience or to coerce (_coerce!_) you to give them every last drop of data.\
+They believe in sharing and collaboration.
+
+By supporting creators, we're giving corporate giants who _always_ prioritize profit over people a kick in the butt.\
+We're helping to build a more transparent network, where innovation comes from everywhere, and where technology is used to _empower_ us, not _control_ and _exploit_ us.\
+So, next time we use a piece of open-source software, we should stop for a moment and consider chipping in a few bucks. I truly believe it's an investment for a brighter, richer, more just future.
+
+
+

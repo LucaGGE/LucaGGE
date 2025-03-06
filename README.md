@@ -12,9 +12,11 @@ My purpose is to **Research, Design, and Develop Open Source Software (OSS)**, w
 
 - **Commitment to Excellence and Ethics**: I hold myself to high standards in both the quality of my software and the ethical implications of my designs. My work reflects a sincere dedication to making positive contributions to the community.
 
-- **Non-Profit Motive**: I develop software without the intention of selling or making a profit. My focus is solely on process, quality and the value it brings to the community.
+- **Non-Profit Motive**: I develop software with a commitment to openness and accessibility, prioritizing community value over profit. My primary focus is on process and quality, and I endeavor to share everything I create in an open and free manner. While I reserve the right to offer completely optional supplementary products for sale, these will be carefully priced to ensure they remain accessible to everyone.\
+_To better clarify this point, that I hold dearly,_ imagine a community garden where everyone is invited to come and grow their own vegetables. In this garden, I provide all the essential tools - fertilizers, seeds, and gardening equipment - completely free of charge. Anyone can use these resources to cultivate their own crops and enjoy the fruits of their labor.\
+Now, if someone wants to enhance their gardening experience, I offer optional tools like specialty planters, organic pest repellents or unique seed varieties for sale. These extras are designed to improve the gardening process but are not necessary to grow a healthy garden. You can also buy them somewhere else if you feel like it, or you can even build them yourself.
 
-- **Licensing**: As far as the world of gaming is concerned, I favor weak copyleft licenses, which allows those who learn something from the project or decide to use it as the basis for something completely new to do so with freedom and tranquility; without however ceasing to protect public property and contributors. Instead, I choose to adopt the harshest hard copyleft licenses for any technical software with any industrial and commercial applications, as experience has amply demonstrated the incorrectness and lack of scruples of those who pursue exclusively a profit motive.
+- **Licensing**: I best like weak copyleft licenses, but I have to adopt what best suits the specific project. Hard copyleft licenses, for example, are a must for any software with industrial or commercial applications, as experience has amply demonstrated the incorrectness and lack of scruples of those who pursue exclusively a profit motive.
 
 ## Tools
 [![App Platorm](https://raw.githubusercontent.com/love2d/love/60278b0532036d404c0b7b011c7b63ab58a5ddaf/platform/unix/love.svg)](https://www.love2d.org/)
